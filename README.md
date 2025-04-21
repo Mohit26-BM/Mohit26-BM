@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohit!
+# 👋 Hello, I'm Mohit!
 
 🎓 I'm currently pursuing a **B.Tech in Computer Science and Engineering (CSE)** at **Lovely Professional University**, Punjab. My primary passion lies in **Data Science**, where I enjoy diving into data, uncovering patterns, and building solutions that drive meaningful, data-informed decisions.
 

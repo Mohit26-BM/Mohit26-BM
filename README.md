@@ -5,7 +5,7 @@
 
 ##  What I'm About
 
--  **Aspiring Data Scientist**: I thrive at the intersection of data, technology, and storytelling. Whether it's wrangling datasets or building insightful dashboards, I love transforming raw information into powerful insights.
+-  **Aspiring Data Analyst**: I thrive at the intersection of data, technology, and storytelling. Whether it's wrangling datasets or building insightful dashboards, I love transforming raw information into powerful insights.
 -  **Tech Stack**: Skilled in tools like **Tableau**, **SQL (PostgreSQL & Oracle)**, **Python**, and various data analysis workflows.
 -  **Culturally Curious**: My love for cultures extends to languages. I’ve been trying to learn **German** and **French** on **Duolingo** and doing courses on **Udemy**, which has been a rewarding journey into new ways of thinking and expression.
 -  **Avid Reader**: I enjoy exploring both **historical narratives**—like the strategies of **Hannibal Barca**, **Napoleon**, and the complexities of **World Wars I & II**—and **cosmic mysteries**, through books like *A Brief History of Time*.

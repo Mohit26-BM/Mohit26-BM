@@ -12,7 +12,7 @@
 
 ##  Always Learning
 
-I believe in continuous growth—currently enhancing my skills in **machine learning**, **ETL pipelines**, and **cloud technologies**.
+- I believe in continuous growth—currently enhancing my skills in **machine learning**, **ETL pipelines**, and **cloud technologies**.
 ---
  Feel free to connect, collaborate, or just have a conversation around data, tech, or cultures. Let's learn and grow together!
 

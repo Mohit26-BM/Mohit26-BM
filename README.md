@@ -13,8 +13,8 @@
 - Lovely Professional University, Punjab  
 - Passionate about **Data Science, Machine Learning & AI**
 - Love uncovering patterns and transforming raw data into actionable insights  
-- Interested in history, strategy & cultural systems (Hannibal, Napoleon, World Wars)  
-- Curious about science & cosmic mysteries  
+- Interested in history, strategy & cultural systems
+- Curious about science
 
 I believe data is more than numbers — it’s a story waiting to be understood and leveraged for smarter decisions.
 

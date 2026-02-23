@@ -1,6 +1,4 @@
-<!-- ======================= BANNER / HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Mohit Bali</h1>
+<h1 align="center">Hi, I'm Mohit Bali</h1>
 <h3 align="center">Data Science | Machine Learning | AI Enthusiast</h3>
 
 <p align="center">
@@ -9,41 +7,41 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering**  
-- 🏫 Lovely Professional University, Punjab  
-- 📊 Passionate about **Data Science, Machine Learning & AI**
-- 🔍 Love uncovering patterns and transforming raw data into actionable insights  
-- 🌍 Interested in history, strategy & cultural systems (Hannibal, Napoleon, World Wars)  
-- 🌌 Curious about science & cosmic mysteries  
+- B.Tech in **Computer Science & Engineering**  
+- Lovely Professional University, Punjab  
+- Passionate about **Data Science, Machine Learning & AI**
+- Love uncovering patterns and transforming raw data into actionable insights  
+- Interested in history, strategy & cultural systems (Hannibal, Napoleon, World Wars)  
+- Curious about science & cosmic mysteries  
 
 I believe data is more than numbers — it’s a story waiting to be understood and leveraged for smarter decisions.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 📊 Data & Analytics
+### Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-### 🗄 Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
-### 📈 Visualization
+### Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
 
-### ⚙️ Tools & Workflow
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight" height="170"/>
@@ -52,7 +50,7 @@ I believe data is more than numbers — it’s a story waiting to be understood 
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mohit26-BM&theme=tokyonight" />
@@ -60,13 +58,13 @@ I believe data is more than numbers — it’s a story waiting to be understood 
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 ![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night)
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - 🤖 Machine Learning & Model Optimization  
 - 🔄 ETL Pipelines & Data Engineering  
@@ -83,8 +81,7 @@ To build intelligent systems that combine **analytical precision, scalability, a
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (Add your link here)
-- 📊 Portfolio: (Add if you build one)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mohit26bali/)
 - 📫 Open to collaboration in Data Science & AI projects
 
 ---

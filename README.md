@@ -66,24 +66,24 @@ I believe data is more than numbers — it’s a story waiting to be understood 
 
 ## Currently Learning
 
-- 🤖 Machine Learning & Model Optimization  
-- 🔄 ETL Pipelines & Data Engineering  
-- ☁️ Cloud Technologies (AWS / Azure)  
-- 📦 Deployment of ML Models  
+- Machine Learning & Model Optimization  
+- ETL Pipelines & Data Engineering  
+- Cloud Technologies (AWS / Azure)  
+- Deployment of ML Models  
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To build intelligent systems that combine **analytical precision, scalability, and real-world impact**, helping organizations make smarter, data-driven decisions.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/mohit26bali/)
-- 📫 Open to collaboration in Data Science & AI projects
+- LinkedIn: (https://www.linkedin.com/in/mohit26bali/)
+- Open to collaboration in Data Science & AI projects
 
 ---
 
-⭐ *"Without data, you're just another person with an opinion."*
+*"Without data, you're just another person with an opinion."*

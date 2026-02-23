@@ -44,8 +44,8 @@ I believe data is more than numbers — it’s a story waiting to be understood 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohit26-BM&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-mohit.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-mohit.vercel.app/api/top-langs/?username=Mohit26-BM&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---

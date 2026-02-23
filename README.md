@@ -81,7 +81,7 @@ To build intelligent systems that combine **analytical precision, scalability, a
 
 ## Let's Connect
 
-- LinkedIn: (https://www.linkedin.com/in/mohit26bali/)
+- LinkedIn: [Here](https://www.linkedin.com/in/mohit26bali/)
 - Open to collaboration in Data Science & AI projects
 
 ---

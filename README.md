@@ -2,21 +2,21 @@
 <h3 align="center">Data Science | Machine Learning | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Intelligent+Insights+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;SQL+%7C+Python+%7C+Tableau;Turning+Data+into+Intelligent+Insights" />
 </p>
 
 ---
 
 ## About Me
 
-- B.Tech in **Computer Science & Engineering**  
-- Lovely Professional University, Punjab  
+- B.Tech in **Computer Science & Engineering**
+- Lovely Professional University, Punjab
 - Passionate about **Data Science, Machine Learning & AI**
-- Love uncovering patterns and transforming raw data into actionable insights  
+- Love uncovering patterns and transforming raw data into actionable insights
 - Interested in history, strategy & cultural systems
 - Curious about science
 
-I believe data is more than numbers — it’s a story waiting to be understood and leveraged for smarter decisions.
+I believe data is more than numbers — it's a story waiting to be understood and leveraged for smarter decisions.
 
 ---
 
@@ -41,26 +41,37 @@ I believe data is more than numbers — it’s a story waiting to be understood 
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohit26-BM&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Mohit26-BM&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contribution Activity
 
-![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## Currently Learning
 
-- Machine Learning & Model Optimization  
-- ETL Pipelines & Data Engineering  
-- Cloud Technologies (AWS / Azure)  
-- Deployment of ML Models  
+- Machine Learning & Model Optimization
+- ETL Pipelines & Data Engineering
+- Cloud Technologies (AWS / Azure)
+- Deployment of ML Models
 
 ---
 
@@ -72,5 +83,7 @@ To build intelligent systems that combine **analytical precision, scalability, a
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohit26bali/)
-- Open to collaboration in Data Science & AI projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit26bali/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit26-BM)
+
+Open to collaboration in Data Science & AI projects.

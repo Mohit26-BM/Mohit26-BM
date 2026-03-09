@@ -64,17 +64,6 @@ mohit = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
@@ -88,14 +77,6 @@ mohit = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night&hide_border=true" />
 </div>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [🧭 Global Compass](https://mohitanalytics.shinyapps.io/global-compass/) | Interactive ML dashboard on World Happiness Report — 6 classifiers, 4 regressors, live prediction & country comparison | R, Shiny, XGBoost, Random Forest |
 
 ---
 

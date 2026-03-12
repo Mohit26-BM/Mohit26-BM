@@ -87,14 +87,6 @@ mohit = {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true" />
-</div>
-
----
-
 ## Currently Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)

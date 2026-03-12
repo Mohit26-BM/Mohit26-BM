@@ -68,7 +68,6 @@ mohit = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=c" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=c" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=c,a%2B%2B" width="49%" />
 </div>
 ---
 

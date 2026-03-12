@@ -67,7 +67,7 @@ mohit = {
 
 <div align="center">
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
 
 </div>
@@ -92,9 +92,9 @@ mohit = {
 
 ## GitHub Trophies
 
-<img src="https://github-trophies.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true&margin-w=4" />
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true" />
+</div>
 
 ---
 
@@ -125,7 +125,6 @@ mohit = {
 <br/>
 
 ![Wave](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)
-
 *Open to collaborations in Data Science, Machine Learning & AI projects*
 
 </div>

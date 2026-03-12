@@ -67,7 +67,7 @@ mohit = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit26-BM)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
 
 </div>

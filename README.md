@@ -94,6 +94,8 @@ mohit = {
 
 <img src="https://github-trophies.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true&margin-w=4" />
+
 ---
 
 ## Currently Learning

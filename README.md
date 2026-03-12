@@ -63,6 +63,17 @@ mohit = {
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit26-BM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
+
+</div>
+
+---
+
 ## GitHub Streak
 
 <div align="center">
@@ -75,6 +86,14 @@ mohit = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohit26-BM&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---

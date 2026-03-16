@@ -6,7 +6,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Mohit26-BM?style=for-the-badge&color=181717&logo=github)](https://github.com/Mohit26-BM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit26bali/)
 
 </div>

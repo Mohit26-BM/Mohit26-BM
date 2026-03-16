@@ -111,7 +111,6 @@ mohit = {
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)
 *Open to collaborations in Data Science, Machine Learning & AI projects*
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohit Bali 👋
+# Hi there, I'm Mohit Bali
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;SQL+%7C+Python+%7C+R+%7C+Tableau;Turning+Data+into+Intelligent+Insights;Always+Learning+%7C+Always+Building" />
 

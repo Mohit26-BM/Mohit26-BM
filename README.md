@@ -108,6 +108,6 @@ mohit = {
 
 <br/>
 
-*Open to collaborations in Data Science, Machine Learning & AI projects*
+*Looking to collaborations in Data Science, Machine Learning & AI projects*
 
 </div>

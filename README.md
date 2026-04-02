@@ -24,8 +24,6 @@ mohit = {
 }
 ```
 
----
-
 ## Tech Stack
 
 ### Languages
@@ -59,28 +57,6 @@ mohit = {
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit26-BM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=c" width="49%" />
-
----
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohit26-BM&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit26-BM&theme=tokyo-night&hide_border=true" />
-</div>
 
 ---
 

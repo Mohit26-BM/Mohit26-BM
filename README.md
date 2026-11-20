@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Mohit&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Mohit" width="100%" />
 
 <a href="https://github.com/Mohit26-BM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer;I+build+interactive+visualizers;Data+%26+ML+projects;Most+of+my+work+has+a+live+demo" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+interactive+visualizers;Data+%26+ML+projects" alt="Typing animation" />
 </a>
 
 </div>

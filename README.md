@@ -1,89 +1,69 @@
-<div align="center">
+# Hi, I'm Mohit 👋
 
-# Hi there, I'm Mohit Bali
+Student at Lovely Professional University and a full-stack developer who likes building things you can click through: interactive visualizers, data and ML projects, and full-stack web apps. Most of what's below has a live demo.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;SQL+%7C+Python+%7C+R+%7C+Tableau;Turning+Data+into+Intelligent+Insights;Always+Learning+%7C+Always+Building" />
+🌐 **Portfolio:** [mohit26portfolio.netlify.app](https://mohit26portfolio.netlify.app/)
 
-<br/>
+## Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit26bali/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-</div>
+## Data & machine learning
 
----
+| Project | What it does | Demo |
+| --- | --- | --- |
+| [Economic-Compass](https://github.com/Mohit26-BM/Economic-Compass) | Data engineering and ML pipeline: ingests U.S. economic indicators from FRED, transforms them with a dbt mart layer, detects statistical drift, and runs four analytical models | [Live](https://economic-compass-1.onrender.com) |
+| [Spatiotemporal Emergency Vehicle Compliance System](https://github.com/Mohit26-BM/Spatiotemporal-Emergency-Vehicle-Compliance-System) | Compliance monitoring for emergency vehicles using spatiotemporal analysis (computer vision, DeepSORT, ResNet-18) | [Live](https://spatiotemporal-emergency-vehicle-compliance-system.streamlit.app/) |
+| [LitMatch-Book-Recommender](https://github.com/Mohit26-BM/LitMatch-Book-Recommender) | Book recommender built on embeddings and a vector database | [Live](https://huggingface.co/spaces/Mohit26BM/LitMatch-Recommender) |
+| [Air-Quality-Prediction](https://github.com/Mohit26-BM/Air-Quality-Prediction) | Interpretable AQI prediction system using XGBoost, SHAP, Flask and Plotly | |
+| [Global-Compass-R](https://github.com/Mohit26-BM/Global-Compass-R) | Interactive R Shiny dashboard on national happiness across 151 countries, with 5 classifiers and 4 regressors | [Live](https://datavizs.shinyapps.io/global-compass/) |
+| [Air-Quality-in-Asia-2023](https://github.com/Mohit26-BM/Air-Quality-in-Asia-2023) | Tableau dashboard on air pollution across Asian cities and countries | |
+| [India-Summer-Weather-Analysis](https://github.com/Mohit26-BM/India-Summer-Weather-Analysis) | Indian summer weather (2012–2021) analyzed with PostgreSQL and Tableau | |
+| [Python_Machine_Learning](https://github.com/Mohit26-BM/Python_Machine_Learning) | Collection of classification and regression projects in Python | |
 
-## About Me
+## Interactive visualizers & simulators
 
-```python
-mohit = {
-    "education"  : "B.Tech Computer Science & Engineering @ LPU, Punjab",
-    "focus"      : ["Data Science", "Machine Learning", "AI"],
-    "currently"  : "Building ML dashboards & exploring model optimization",
-    "interests"  : ["Data Storytelling", "History", "Strategy", "Science"],
-    "belief"     : "Data is more than numbers — it's a story waiting to be understood"
-}
-```
+| Project | What it does | Demo |
+| --- | --- | --- |
+| [Interactive-Computer-Network-Visualizer](https://github.com/Mohit26-BM/Interactive-Computer-Network-Visualizer) | In-browser networking course with 60+ step-by-step simulations, from a single packet to TCP, DNS, VLANs and routing | [Live](https://interactive-computer-network-visual.vercel.app) |
+| [Interactive-DSA-Visualizer](https://github.com/Mohit26-BM/Interactive-DSA-Visualizer) | Step-by-step data structure and algorithm visualizer (Next.js, React, TypeScript, Tailwind) | [Live](https://interactive-dsa-visualizer.vercel.app/) |
+| [Operating-System-Simulator](https://github.com/Mohit26-BM/Operating-System-Simulator) | Interactive simulator for core operating systems concepts | [Live](https://operating-system-simulator-gamma.vercel.app/) |
+| [DBViz-Database-SQL-Visualizer](https://github.com/Mohit26-BM/DBViz-Database-SQL-Visualizer) | Interactive database systems simulator (Vite, React, Tailwind, Framer Motion) | [Live](https://db-viz-database-sql-visualizer.vercel.app/) |
+| [Probability-Casino](https://github.com/Mohit26-BM/Probability-Casino) | Probability simulation playground that runs entirely in the browser | [Live](https://probability-casino.vercel.app/) |
+| [N-Queens-Visualizer](https://github.com/Mohit26-BM/N-Queens-Visualizer) | Animated visualizer for the N-Queens problem | [Live](https://n-queens-visualizer-mohit26.netlify.app/) |
 
-## Tech Stack
+## Full-stack apps
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Project | What it does | Demo |
+| --- | --- | --- |
+| [Bibliotheca](https://github.com/Mohit26-BM/Bibliotheca) | Library management system in vanilla JS and Supabase: borrowing, reviews, admin panel, analytics, user profiles | |
+| [FitClub-Power-Your-Potential](https://github.com/Mohit26-BM/FitClub-Power-Your-Potential) | Gym management app built with Next.js 15, TypeScript and Tailwind CSS | [Live](https://fitclub-power-your-potential.onrender.com) |
+| [Pokemon-Card-Generator](https://github.com/Mohit26-BM/Pokemon-Card-Generator) | Create, customize and manage digital Pokémon cards, with a Supabase backend for auth and storage | [Live](https://pokemoncardgenerator1.netlify.app/) |
+| [Strategic-Fusion-Dashboard](https://github.com/Mohit26-BM/Strategic-Fusion-Dashboard) | Workspace for ingesting, visualizing and filtering geospatial intelligence nodes | [Live](https://strategic-fusion.onrender.com/) |
+| [Curry-Time](https://github.com/Mohit26-BM/Curry-Time) | Full-stack restaurant website (Node, Express) | [Live](https://curry-time.onrender.com/) |
 
-### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+## Java & DevOps
 
-### Web & Dashboards
-![Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- [Java-Full-Stack](https://github.com/Mohit26-BM/Java-Full-Stack): daily practice and assignments from my Java full stack training
+- [bank-microservices-jenkins](https://github.com/Mohit26-BM/bank-microservices-jenkins): microservices with a Jenkins pipeline
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Get in touch
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## Currently Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0052CC?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## Career Goal
-
-> *To build intelligent systems that combine **analytical precision, scalability, and real-world impact** — helping organizations make smarter, data-driven decisions.*
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit26bali/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit26-BM)
-[![ShinyApps](https://img.shields.io/badge/ShinyApps-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://mohitanalytics.shinyapps.io/global-compass/)
-
-<br/>
-
-*Looking to collaborations in Data Science, Machine Learning & AI projects*
-
-</div>
+- GitHub: [@Mohit26-BM](https://github.com/Mohit26-BM)
+<!-- Add your LinkedIn / email here -->

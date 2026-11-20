@@ -10,9 +10,9 @@
 
 Student at Lovely Professional University and a full-stack developer who likes building things you can click through: interactive visualizers, data and ML projects, and full-stack web apps. Most of what's below has a live demo.
 
-🌐 **Portfolio:** [mohit26portfolio.netlify.app](https://mohit26portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohit26portfolio.netlify.app-0f2027?style=flat-square&logo=netlify&logoColor=white)](https://mohit26portfolio.netlify.app/)
 
-## Tech stack
+## 🛠️ Tech stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,48 +32,51 @@ Student at Lovely Professional University and a full-stack developer who likes b
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-## Data & machine learning
+## 📊 Data & machine learning
 
-| Project | What it does | Demo |
-| --- | --- | --- |
-| [Economic-Compass](https://github.com/Mohit26-BM/Economic-Compass) | Data engineering and ML pipeline: ingests U.S. economic indicators from FRED, transforms them with a dbt mart layer, detects statistical drift, and runs four analytical models | [Live](https://economic-compass-1.onrender.com) |
-| [Spatiotemporal Emergency Vehicle Compliance System](https://github.com/Mohit26-BM/Spatiotemporal-Emergency-Vehicle-Compliance-System) | Compliance monitoring for emergency vehicles using spatiotemporal analysis (computer vision, DeepSORT, ResNet-18) | [Live](https://spatiotemporal-emergency-vehicle-compliance-system.streamlit.app/) |
-| [LitMatch-Book-Recommender](https://github.com/Mohit26-BM/LitMatch-Book-Recommender) | Book recommender built on embeddings and a vector database | [Live](https://huggingface.co/spaces/Mohit26BM/LitMatch-Recommender) |
-| [Air-Quality-Prediction](https://github.com/Mohit26-BM/Air-Quality-Prediction) | Interpretable AQI prediction system using XGBoost, SHAP, Flask and Plotly | |
-| [Global-Compass-R](https://github.com/Mohit26-BM/Global-Compass-R) | Interactive R Shiny dashboard on national happiness across 151 countries, with 5 classifiers and 4 regressors | [Live](https://datavizs.shinyapps.io/global-compass/) |
-| [Air-Quality-in-Asia-2023](https://github.com/Mohit26-BM/Air-Quality-in-Asia-2023) | Tableau dashboard on air pollution across Asian cities and countries | |
-| [India-Summer-Weather-Analysis](https://github.com/Mohit26-BM/India-Summer-Weather-Analysis) | Indian summer weather (2012–2021) analyzed with PostgreSQL and Tableau | |
-| [Python_Machine_Learning](https://github.com/Mohit26-BM/Python_Machine_Learning) | Collection of classification and regression projects in Python | |
+| Project | What it does | Stack | Demo |
+| :--- | :--- | :--- | :---: |
+| **[Economic Compass](https://github.com/Mohit26-BM/Economic-Compass)** | Ingests U.S. economic indicators from FRED, transforms them with a dbt mart layer, detects statistical drift, and runs four analytical models | `dbt` `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://economic-compass-1.onrender.com) |
+| **[Emergency Vehicle Compliance System](https://github.com/Mohit26-BM/Spatiotemporal-Emergency-Vehicle-Compliance-System)** | Compliance monitoring for emergency vehicles using spatiotemporal analysis | `PyTorch` `OpenCV` `DeepSORT` `Streamlit` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://spatiotemporal-emergency-vehicle-compliance-system.streamlit.app/) |
+| **[LitMatch Book Recommender](https://github.com/Mohit26-BM/LitMatch-Book-Recommender)** | Book recommender built on embeddings and a vector database | `LangChain` `ChromaDB` `Gradio` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://huggingface.co/spaces/Mohit26BM/LitMatch-Recommender) |
+| **[Air Quality Prediction](https://github.com/Mohit26-BM/Air-Quality-Prediction)** | Interpretable AQI prediction system | `XGBoost` `SHAP` `Flask` `Plotly` | — |
+| **[Global Compass](https://github.com/Mohit26-BM/Global-Compass-R)** | Interactive dashboard on national happiness across 151 countries, with 5 classifiers and 4 regressors | `R` `Shiny` `ggplot2` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://datavizs.shinyapps.io/global-compass/) |
+| **[Air Quality in Asia 2023](https://github.com/Mohit26-BM/Air-Quality-in-Asia-2023)** | Dashboard on air pollution across Asian cities and countries | `Tableau` | — |
+| **[India Summer Weather](https://github.com/Mohit26-BM/India-Summer-Weather-Analysis)** | Indian summer weather (2012–2021) analyzed across cities | `PostgreSQL` `Tableau` | — |
+| **[Python Machine Learning](https://github.com/Mohit26-BM/Python_Machine_Learning)** | Collection of classification and regression projects | `Python` | — |
 
-## Interactive visualizers & simulators
+## 🧪 Interactive visualizers & simulators
 
-| Project | What it does | Demo |
-| --- | --- | --- |
-| [Interactive-Computer-Network-Visualizer](https://github.com/Mohit26-BM/Interactive-Computer-Network-Visualizer) | In-browser networking course with 60+ step-by-step simulations, from a single packet to TCP, DNS, VLANs and routing | [Live](https://interactive-computer-network-visual.vercel.app) |
-| [Interactive-DSA-Visualizer](https://github.com/Mohit26-BM/Interactive-DSA-Visualizer) | Step-by-step data structure and algorithm visualizer (Next.js, React, TypeScript, Tailwind) | [Live](https://interactive-dsa-visualizer.vercel.app/) |
-| [Operating-System-Simulator](https://github.com/Mohit26-BM/Operating-System-Simulator) | Interactive simulator for core operating systems concepts | [Live](https://operating-system-simulator-gamma.vercel.app/) |
-| [DBViz-Database-SQL-Visualizer](https://github.com/Mohit26-BM/DBViz-Database-SQL-Visualizer) | Interactive database systems simulator (Vite, React, Tailwind, Framer Motion) | [Live](https://db-viz-database-sql-visualizer.vercel.app/) |
-| [Probability-Casino](https://github.com/Mohit26-BM/Probability-Casino) | Probability simulation playground that runs entirely in the browser | [Live](https://probability-casino.vercel.app/) |
-| [N-Queens-Visualizer](https://github.com/Mohit26-BM/N-Queens-Visualizer) | Animated visualizer for the N-Queens problem | [Live](https://n-queens-visualizer-mohit26.netlify.app/) |
+| Project | What it does | Stack | Demo |
+| :--- | :--- | :--- | :---: |
+| **[Computer Network Visualizer](https://github.com/Mohit26-BM/Interactive-Computer-Network-Visualizer)** | In-browser networking course with 60+ step-by-step simulations, from a single packet to TCP, DNS, VLANs and routing | `TypeScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://interactive-computer-network-visual.vercel.app) |
+| **[DSA Visualizer](https://github.com/Mohit26-BM/Interactive-DSA-Visualizer)** | Step-by-step data structure and algorithm visualizer | `Next.js` `React` `TypeScript` `Tailwind` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://interactive-dsa-visualizer.vercel.app/) |
+| **[OS Simulator](https://github.com/Mohit26-BM/Operating-System-Simulator)** | Interactive simulator for core operating systems concepts | `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://operating-system-simulator-gamma.vercel.app/) |
+| **[DBViz](https://github.com/Mohit26-BM/DBViz-Database-SQL-Visualizer)** | Interactive database systems simulator | `Vite` `React` `Tailwind` `Framer Motion` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://db-viz-database-sql-visualizer.vercel.app/) |
+| **[Probability Casino](https://github.com/Mohit26-BM/Probability-Casino)** | Probability simulation playground that runs entirely in the browser | `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://probability-casino.vercel.app/) |
+| **[N-Queens Visualizer](https://github.com/Mohit26-BM/N-Queens-Visualizer)** | Animated visualizer for the N-Queens problem | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://n-queens-visualizer-mohit26.netlify.app/) |
 
-## Full-stack apps
+## 🌐 Full-stack apps
 
-| Project | What it does | Demo |
-| --- | --- | --- |
-| [Bibliotheca](https://github.com/Mohit26-BM/Bibliotheca) | Library management system in vanilla JS and Supabase: borrowing, reviews, admin panel, analytics, user profiles | |
-| [FitClub-Power-Your-Potential](https://github.com/Mohit26-BM/FitClub-Power-Your-Potential) | Gym management app built with Next.js 15, TypeScript and Tailwind CSS | [Live](https://fitclub-power-your-potential.onrender.com) |
-| [Pokemon-Card-Generator](https://github.com/Mohit26-BM/Pokemon-Card-Generator) | Create, customize and manage digital Pokémon cards, with a Supabase backend for auth and storage | [Live](https://pokemoncardgenerator1.netlify.app/) |
-| [Strategic-Fusion-Dashboard](https://github.com/Mohit26-BM/Strategic-Fusion-Dashboard) | Workspace for ingesting, visualizing and filtering geospatial intelligence nodes | [Live](https://strategic-fusion.onrender.com/) |
-| [Curry-Time](https://github.com/Mohit26-BM/Curry-Time) | Full-stack restaurant website (Node, Express) | [Live](https://curry-time.onrender.com/) |
+| Project | What it does | Stack | Demo |
+| :--- | :--- | :--- | :---: |
+| **[Bibliotheca](https://github.com/Mohit26-BM/Bibliotheca)** | Library management system: borrowing, reviews, admin panel, analytics, user profiles | `Vanilla JS` `Supabase` | — |
+| **[FitClub](https://github.com/Mohit26-BM/FitClub-Power-Your-Potential)** | Gym management web app | `Next.js` `TypeScript` `Tailwind` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://fitclub-power-your-potential.onrender.com) |
+| **[Pokémon Card Generator](https://github.com/Mohit26-BM/Pokemon-Card-Generator)** | Create, customize and manage digital Pokémon cards, with auth and storage | `JavaScript` `Supabase` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://pokemoncardgenerator1.netlify.app/) |
+| **[Strategic Fusion Dashboard](https://github.com/Mohit26-BM/Strategic-Fusion-Dashboard)** | Workspace for ingesting, visualizing and filtering geospatial intelligence nodes | `React` `Leaflet` `MongoDB` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://strategic-fusion.onrender.com/) |
+| **[Curry Time](https://github.com/Mohit26-BM/Curry-Time)** | Full-stack restaurant website | `Node` `Express` `HTML` `CSS` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://curry-time.onrender.com/) |
 
-## Java & DevOps
+## ☕ Java & DevOps
 
 - [Java-Full-Stack](https://github.com/Mohit26-BM/Java-Full-Stack): daily practice and assignments from my Java full stack training
 - [bank-microservices-jenkins](https://github.com/Mohit26-BM/bank-microservices-jenkins): microservices with a Jenkins pipeline
 
-## Get in touch
+## 📫 Get in touch
 
-- GitHub: [@Mohit26-BM](https://github.com/Mohit26-BM)
-<!-- Add your LinkedIn / email here -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit26bali/"><img src="https://img.shields.io/badge/LinkedIn-mohit26bali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:M26ohitbali@gmail.com"><img src="https://img.shields.io/badge/Email-M26ohitbali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mohit26portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />

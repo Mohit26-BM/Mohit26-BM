@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Mohit&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Mohit" width="100%" />
 
 <a href="https://github.com/Mohit26-BM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+interactive+visualizers;Data+%26+ML+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+interactive+visualizers;Data+%26+ML+projects;Full-stack+web+applications;Turning+ideas+into+interactive+experiences" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,6 +19,8 @@
 Student at Lovely Professional University and a full-stack developer who likes building things you can click through: interactive visualizers, data and ML projects, and full-stack web apps. Most of what's below has a live demo.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohit26portfolio.netlify.app-0f2027?style=flat-square&logo=netlify&logoColor=white)](https://mohit26portfolio.netlify.app/)
+
+---
 
 ## 🛠️ Tech stack
 
@@ -67,6 +70,8 @@ Student at Lovely Professional University and a full-stack developer who likes b
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
+---
+
 ## 📈 GitHub stats
 
 <div align="center">
@@ -78,15 +83,48 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 </div>
 
-## 🐍 Contribution Snake
+---
+
+## 🌌 Contribution Universe
 
 <div align="center">
+
+### 💻 Matrix Rain
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-light.svg">
   <img
-    src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg"
     width="100%"
-  />
+    alt="Matrix Rain Contribution Animation">
+</picture>
+
+<br/>
+
+### 🧊 3D Contribution Landscape
+
+<img
+  src="profile-3d-contrib/profile-night-view.svg"
+  width="100%"
+  alt="3D GitHub Contribution Graph">
+
+<br/>
+
+### ⚡ Neon Contribution Graph
+
+<img
+  src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/neon.svg"
+  width="100%"
+  alt="Neon Contribution Graph">
+
 </div>
+
+---
 
 ## 📊 Data & machine learning
 
@@ -101,6 +139,8 @@ Student at Lovely Professional University and a full-stack developer who likes b
 | **[India Summer Weather](https://github.com/Mohit26-BM/India-Summer-Weather-Analysis)** | Indian summer weather (2012–2021) analyzed across cities | `PostgreSQL` `Tableau` | — |
 | **[Python Machine Learning](https://github.com/Mohit26-BM/Python_Machine_Learning)** | Collection of classification and regression projects | `Python` | — |
 
+---
+
 ## 🧪 Interactive visualizers & simulators
 
 | Project | What it does | Stack | Demo |
@@ -112,6 +152,8 @@ Student at Lovely Professional University and a full-stack developer who likes b
 | **[Probability Casino](https://github.com/Mohit26-BM/Probability-Casino)** | Probability simulation playground that runs entirely in the browser | `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://probability-casino.vercel.app/) |
 | **[N-Queens Visualizer](https://github.com/Mohit26-BM/N-Queens-Visualizer)** | Animated visualizer for the N-Queens problem | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://n-queens-visualizer-mohit26.netlify.app/) |
 
+---
+
 ## 🌐 Full-stack apps
 
 | Project | What it does | Stack | Demo |
@@ -122,10 +164,14 @@ Student at Lovely Professional University and a full-stack developer who likes b
 | **[Strategic Fusion Dashboard](https://github.com/Mohit26-BM/Strategic-Fusion-Dashboard)** | Workspace for ingesting, visualizing and filtering geospatial intelligence nodes | `React` `Leaflet` `MongoDB` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://strategic-fusion.onrender.com/) |
 | **[Curry Time](https://github.com/Mohit26-BM/Curry-Time)** | Full-stack restaurant website | `Node` `Express` `HTML` `CSS` | [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://curry-time.onrender.com/) |
 
+---
+
 ## ☕ Java & DevOps
 
 - [Java-Full-Stack](https://github.com/Mohit26-BM/Java-Full-Stack): daily practice and assignments from my Java full stack training
 - [bank-microservices-jenkins](https://github.com/Mohit26-BM/bank-microservices-jenkins): microservices with a Jenkins pipeline
+
+---
 
 ## 📫 Get in touch
 
@@ -134,5 +180,17 @@ Student at Lovely Professional University and a full-stack developer who likes b
   <a href="mailto:M26ohitbali@gmail.com"><img src="https://img.shields.io/badge/Email-M26ohitbali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://mohit26portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+---
+
+<div align="center">
+
+<img
+  src="assets/galaxy.svg"
+  width="100%"
+  alt="Animated Galaxy Starfield"
+/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />

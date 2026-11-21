@@ -67,14 +67,6 @@ Student at Lovely Professional University and a full-stack developer who likes b
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
-## 🏆 GitHub achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohit26-BM&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 📈 GitHub stats
 
 <div align="center">

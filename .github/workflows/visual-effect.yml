@@ -1,0 +1,45 @@
+
+name: Generate Futuristic Visual Effects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Matrix rain contribution animation
+      - name: Generate Matrix Rain
+        uses: N1k0droid/matrix-svg-contrib@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Neon contribution animation
+      - name: Generate Neon Graph
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: Mohit26-BM
+          outputs: |
+            dist/neon.svg?theme=neon&palette=ocean&mode=dark
+
+      # Publish both generated animations together
+      - name: Deploy visual effects
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

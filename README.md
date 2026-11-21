@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohit26-BM&style=flat-square&color=36BCF7&label=Profile+Views)
-[![Followers](https://img.shields.io/github/followers/Mohit26-BM?style=flat-square&logo=github&color=203a43)](https://github.com/Mohit26-BM?tab=followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Mohit26-BM&query=$.public_repos&label=Public%20Repos&style=flat-square&color=2c5364&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/Mohit26-BM/Mohit26-BM?style=flat-square&color=0f2027)
 ![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=flat-square)

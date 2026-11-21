@@ -85,35 +85,40 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 ---
 
+
 ## 🌌 Contribution Universe
 
 <div align="center">
 
 ### 💻 Matrix Rain
 
+<img
+  src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg"
+  width="100%"
+  alt="Matrix Rain Contribution Animation"
+/>
+
+<br/>
+
+### ✨ Contribution Constellation
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg">
+    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/constellation.svg"
+  />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-light.svg">
+    srcset="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/constellation-light.svg"
+  />
   <img
-    src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg"
+    src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/constellation.svg"
     width="100%"
-    alt="Matrix Rain Contribution Animation">
+    alt="GitHub Contribution Constellation"
+  />
 </picture>
 
-<br/>
-
-### 🧊 3D Contribution Landscape
-
-<img
-  src="profile-3d-contrib/profile-night-view.svg"
-  width="100%"
-  alt="3D GitHub Contribution Graph">
-
-<br/>
+</div>
 
 ### ⚡ Neon Contribution Graph
 

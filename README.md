@@ -90,16 +90,6 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 <div align="center">
 
-### 💻 Matrix Rain
-
-<img
-  src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/matrix-rain-v2-dark.svg"
-  width="100%"
-  alt="Matrix Rain Contribution Animation"
-/>
-
-<br/>
-
 ### ✨ Contribution Constellation
 
 <picture>

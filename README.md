@@ -90,8 +90,6 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 <div align="center">
 
-### ✨ Contribution Constellation
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

@@ -120,15 +120,6 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 </div>
 
-### ⚡ Neon Contribution Graph
-
-<img
-  src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/neon.svg"
-  width="100%"
-  alt="Neon Contribution Graph">
-
-</div>
-
 ---
 
 ## 📊 Data & machine learning

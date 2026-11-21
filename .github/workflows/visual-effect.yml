@@ -15,28 +15,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # Matrix rain contribution animation
       - name: Generate Matrix Rain
         uses: N1k0droid/matrix-svg-contrib@v1.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Neon contribution animation
-      - name: Generate Neon Graph
+      - name: Generate Constellation
         uses: Sur1ive/contribution-fx@v1
         with:
           github_user_name: Mohit26-BM
           outputs: |
-            dist/neon.svg?theme=neon&palette=ocean&mode=dark
+            dist/constellation.svg?theme=constellation&palette=ocean&mode=dark
+            dist/constellation-light.svg?theme=constellation&palette=ocean&mode=light
 
-      # Publish both generated animations together
-      - name: Deploy visual effects
+      - name: Deploy animations
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output

@@ -78,6 +78,16 @@ Student at Lovely Professional University and a full-stack developer who likes b
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mohit26-BM/Mohit26-BM/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</div>
+
 ## 📊 Data & machine learning
 
 | Project | What it does | Stack | Demo |

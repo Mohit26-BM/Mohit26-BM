@@ -1,0 +1,98 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="240"
+     viewBox="0 0 1000 240">
+
+  <defs>
+    <radialGradient id="bg">
+      <stop offset="0%" stop-color="#203a43"/>
+      <stop offset="65%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#050914"/>
+    </radialGradient>
+
+    <radialGradient id="nebula">
+      <stop offset="0%" stop-color="#36bcf7" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#36bcf7" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="240" fill="url(#bg)"/>
+
+  <ellipse cx="500" cy="120" rx="450" ry="130"
+           fill="url(#nebula)"/>
+
+  <!-- Stars -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="40" r="2"/>
+    <circle cx="190" cy="160" r="1.5"/>
+    <circle cx="300" cy="60" r="2"/>
+    <circle cx="420" cy="190" r="1.5"/>
+    <circle cx="570" cy="35" r="2"/>
+    <circle cx="700" cy="170" r="1.5"/>
+    <circle cx="830" cy="65" r="2"/>
+    <circle cx="940" cy="190" r="1.5"/>
+    <circle cx="150" cy="210" r="1"/>
+    <circle cx="760" cy="30" r="1"/>
+    <circle cx="490" cy="90" r="1.5"/>
+    <circle cx="900" cy="120" r="1"/>
+  </g>
+
+  <!-- Animated stars -->
+  <g fill="#36bcf7" filter="url(#glow)">
+    <circle cx="250" cy="100" r="3">
+      <animate attributeName="opacity"
+        values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="80" r="2.5">
+      <animate attributeName="opacity"
+        values="1;.2;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="150" r="3">
+      <animate attributeName="opacity"
+        values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Shooting star -->
+  <path d="M0 0 L100 0"
+        stroke="#36bcf7"
+        stroke-width="2"
+        opacity="0"
+        filter="url(#glow)">
+    <animateMotion
+      path="M 100 70 L 850 190"
+      dur="5s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;1;0"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <!-- Center text -->
+  <g text-anchor="middle"
+     font-family="monospace"
+     fill="#ffffff">
+    <text x="500" y="110"
+          font-size="27"
+          font-weight="bold"
+          letter-spacing="5">
+      EXPLORE THE UNIVERSE
+    </text>
+    <text x="500" y="145"
+          font-size="13"
+          fill="#36bcf7"
+          letter-spacing="4">
+      BUILD  •  CREATE  •  INNOVATE
+    </text>
+  </g>
+
+</svg>
